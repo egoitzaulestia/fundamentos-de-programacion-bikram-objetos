@@ -86,7 +86,7 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 
 -----
 
-Dev1 = Santy Orozco  🧪
+Dev1 = Santy Orozco 🧪
 
 Dev2 = Egoitz Aulestia 🚀
 
