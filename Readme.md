@@ -82,3 +82,8 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 - [ ] 25.- Dado un **objeto** de nombre **Led** modifica el valor de la propiedad **encendido** por el valor **false si vale true y true si vale false**
 
 - [ ] 26.- Dado un **objeto** de nombre **Movil** modifica el valor de la propiedad **temperatura** por el valor **20º**
+
+
+-----
+
+![Captura ejercicios objetos](Captura_ejercicios_objetos.png  "aptura ejercicios objetos")
