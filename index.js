@@ -5,8 +5,9 @@ const dev1 = "Santy Orozco";
 const dev2 = "Egoitz Aulestia";
 
 
-
-// Objetos
+/////////////
+// Objetos //
+/////////////
 
 // Declaración
 
@@ -113,7 +114,9 @@ Impresora.imprimiendo = {nombreArchivo: "Attention Is All You Need", copias: 1, 
 
 
 
-// proyecto
+//////////////
+// proyecto //
+//////////////
 
 // Objetos
 
