@@ -1,8 +1,8 @@
 // Pair Programming
 
-const dev1 = "Santy Orozco";
+const dev1 = "Santy Orozco 🧪";
 
-const dev2 = "Egoitz Aulestia";
+const dev2 = "Egoitz Aulestia 🚀";
 
 
 /////////////

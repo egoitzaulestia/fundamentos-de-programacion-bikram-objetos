@@ -86,8 +86,9 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 
 -----
 
-Dev1 = "Santy Orozco"
+Dev1 = Santy Orozco  🧪
 
-Dev2 = "Egoitz Aulestia"
+Dev2 = Egoitz Aulestia 🚀
+
 
 ![Captura ejercicios objetos](Captura_ejercicios_objetos.png  "aptura ejercicios objetos")
